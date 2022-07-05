@@ -1,0 +1,33 @@
+{
+    "characters": [
+        {
+            "name": "Harry",
+            "surname": "Potter",
+            "house": "Gryffindor"
+        },
+        {
+            "name": "Ron",
+            "surname": "Wesley",
+            "house": "Gryffindor"
+        },
+        {
+            "name": "Hermione",
+            "surname": "Granger",
+            "house": "Gryffindor"
+        }
+    ],
+    "books":[
+        {
+            "id": "HP001",
+            "title": "Harry 1",
+            "author": "JKR",
+            "year": "1991"
+        },
+        {
+            "id": "HP002",
+            "title": "Harry 2",
+            "author": "JKR",
+            "year": "1992"
+        }
+    ]
+}
